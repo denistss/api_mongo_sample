@@ -1,4 +1,4 @@
-##dotnet-mongo
+## dotnet-mongo
 
 Exemplo de aplicação .net core com mongodb.
 
@@ -17,13 +17,13 @@ OBS: é preciso ter configurar o acesso ao banco no appsettings.
 
 Links Uteis:
 
-*.net core - https://dotnet.microsoft.com/download
+* .net core - https://dotnet.microsoft.com/download
 
-*visual code - https://code.visualstudio.com/download
+* visual code - https://code.visualstudio.com/download
 
-*postman - https://www.postman.com/downloads/
+* postman - https://www.postman.com/downloads/
 
-*mongo atlas - https://www.mongodb.com/cloud/atlas/register
+* mongo atlas - https://www.mongodb.com/cloud/atlas/register
 
 Referências:
 
